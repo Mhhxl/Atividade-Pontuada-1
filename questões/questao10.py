@@ -34,4 +34,4 @@ print(f"Total: R${total:.2f}")
 print("==FIM==")
 
 #Anotações:
-#meio complicadinha, revisar também
+#meio complicadinha, revisar também.
