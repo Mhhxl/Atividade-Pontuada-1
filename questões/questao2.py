@@ -32,4 +32,12 @@ match estado_civil:
         print("Não identificado")
 
 if genero == "F" | "f" and estado_civil == "C" | "c" :
-    print("teste")
+    anos_de_casamento=input("a quantos anos vc é casada?")
+  #saida
+print(f"Seu gênero: {genero}\n")
+print(f"Seu estado civil é: {estado_civil}\n")
+print(f"Vc está casada a: {anos_de_casamento}\n")
+print("==FIM==")
+
+#rapaz tem alguma coisa q eu n consegui fazer direito, pq n é possivel
+  
